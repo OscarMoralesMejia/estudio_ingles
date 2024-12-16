@@ -1,4 +1,4 @@
-verbo,pasado,participio,traduccion
+verbo,pasado,pasado_participio,traduccion
 arise,arose,arisen,levantarse
 be,was/were,been,ser o estar
 bear,bear,borne,soportar
@@ -74,7 +74,7 @@ lose,lost,lost,perder
 make,made,made,hacer/fabricar
 mean,meant,meant,significar/querer decir
 meet,met,met,reunir
-mislead,misled,misled,engañar
+mislead,misled,misled,engaï¿½ar
 mistake,mistook,mistaken,errar
 mow,mowed,mown,cortar
 outdo,outdid,outdone,superar
@@ -137,7 +137,7 @@ swell,swelled,swollen,inflamarse
 swim,swam,swum,nadar
 swing,swung,swung,mecer/columpiar
 take,took,taken,tomar/llevar
-teach,taught,taught,enseñar
+teach,taught,taught,enseï¿½ar
 tear,tore,torn,"rasgar,romper"
 tell,told,told,decir/narrar
 think,thought,thought,pensar
